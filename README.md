@@ -1,0 +1,1 @@
+# aframe-asset-collection
